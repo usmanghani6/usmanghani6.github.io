@@ -6667,3 +6667,20 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.mt-6 {
+  margin-top: 6%;
+}
+
+.mb-6 {
+  margin-bottom: 6%;
+}
+
+.ml-6 {
+  margin-left: 6%;
+}
+
+.vl {
+  border-left: 1px grey;
+  height: 100%;
+}
